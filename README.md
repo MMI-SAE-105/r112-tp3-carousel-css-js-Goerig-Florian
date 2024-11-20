@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : goerig
+- prénom : florian
+- URL Netlify : https://lighthearted-tanuki-b5f8d1.netlify.app
 
 # Travail
 
@@ -173,7 +173,7 @@ Ajouter une liste de lien avec ancres vers les éléments du carousel
 
 Tester le bon défilement au clic sur les ancres
 
-**Faire commit** : Carrousel avec tancre
+**Faire commit** : Carrousel avec ancre
 
 ## Carrousel avec btn sur les éléments
 
